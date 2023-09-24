@@ -1,4 +1,4 @@
-# Baseball-Salary-Prediction
+# Baseball Salary Prediction
 
 ## Task
 
